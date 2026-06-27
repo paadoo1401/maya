@@ -3,3 +3,4 @@ def greet(name):
 
 greet("World")
 git commit -m "Add comment to script"
+git commit -m "Update script"
