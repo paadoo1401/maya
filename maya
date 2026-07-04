@@ -44,3 +44,6 @@ b = 3
 print(a + b)
 name = "Ali"
 print(name)
+age = 25
+if age >= 18:
+    print("Adult")
