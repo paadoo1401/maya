@@ -35,3 +35,4 @@ koin.fajj
 lilimooi
 fire.dull..
 result = add(num1, num2)
+print("The sum is:", result)
