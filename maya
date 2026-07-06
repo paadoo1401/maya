@@ -49,3 +49,5 @@ if age >= 18:
     print("Adult")
 print(2 * 6)
 print
+print(x)
+a = 5
