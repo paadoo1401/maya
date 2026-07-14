@@ -44,7 +44,8 @@ b = 3
 print(a + b)
 name = "Ali"
 print(name)
-age = 25
+
+
 if age >= 18:
     print("Adult")
 print(2 * 6)
@@ -60,3 +61,10 @@ git add .
 git add .
 def greet
 def greet
+print
+print
+a = 5
+fire.dull.
+fire.dull.
+print(2 * 6)
+age = 25
