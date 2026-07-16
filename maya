@@ -73,3 +73,4 @@ print(2 * 6)
 print(2 * 6)
 git commit
 git add .
+print(a + b)
