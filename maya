@@ -44,7 +44,7 @@ b = 3
 print(a + b)
 name = "Ali"
 print(name)
-
+drtssaaa
 
 if age >= 18:
     print("Adult")
